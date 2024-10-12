@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WajidAli100
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently Generative AI
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 4750526@gmail.com
 
